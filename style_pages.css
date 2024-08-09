@@ -1,0 +1,25 @@
+h1 , h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: burlywood;
+    color: blue;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(207, 160, 117);
+    color: blueviolet;
+}
+
+a{
+    color: rgb(193, 215, 235);
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(207, 160, 117);
+    color: blueviolet;
+}
