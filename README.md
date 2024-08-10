@@ -10,3 +10,7 @@ Skills needed for this project:
     -html Boiler plate and html tags
     -html images,links,oredered and unordered lists, and list items.
 
+    -CSS id, class, and type selectors
+    -Manipulating CSS properties such as font type, weight, color, background     
+      color...
+    -Familiarity with CSS box model inline, block, borders, margins, and padding
