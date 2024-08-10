@@ -1,17 +1,37 @@
+body{
+    padding: 20px 200px;
+}
+
 .title{
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: burlywood;
     color: blue;
     font-weight: bold;
+    margin: 30px 0px;
 }
 
-li{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: rgb(207, 160, 117);
-    color: blueviolet;
+div{
+    padding: 50px;
+    text-align: center;
+    margin:8px 0px;
+}
+
+.first{
+    background-color: skyblue;
+}
+
+.second{
+    background-color: rgb(79, 193, 238);
+}
+
+.third{
+    background-color: rgb(14, 175, 239);
 }
 
 a{
-    color: rgb(193, 215, 235);
+    color: rgb(213, 227, 240);
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: none;
 }
